@@ -1,4 +1,4 @@
-# Managing firsts pods
+# Deploying and declaring pods
 Continuing after first installation
 
 ## Prerequisite
